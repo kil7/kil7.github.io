@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Kieran Lynch
 tagline:          
 description:      '2nd year computer science student at Aberystwyth University.'
-url:              http://kil7@github.io
+url:              http://www.kieranjlynch.co.uk
 baseurl:          /
 
 author:
   name:           'Kieran Lynch'
-  url:            https://kil7@github.io
+  url:            https://www.kieranjlynch.co.uk
 
 paginate:         5
 
