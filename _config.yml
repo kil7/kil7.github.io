@@ -14,8 +14,8 @@ url:              http://kil7@github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Kieran Lynch'
+  url:            https://kil7@github.io
 
 paginate:         5
 
